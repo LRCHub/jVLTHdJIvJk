@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "かわいこちぇっく！",
+  "base_artist": "戌神ころね",
+  "createdAt": "2026-03-26T13:35:33.176937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かわいこちぇっく！",
+      "artist": "戌神ころね",
+      "has_synced": true,
+      "path": "select/01_かわいこちぇっく!_戌神ころね.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かわいこちぇっく！",
+      "artist": "戌神ころね",
+      "has_synced": true,
+      "path": "select/02_かわいこちぇっく!_戌神ころね.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かわいこちぇっく!",
+      "artist": "戌神ころね",
+      "has_synced": true,
+      "path": "select/03_かわいこちぇっく!_戌神ころね.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "かわいこちぇっく！ (Kawaiko Check!)",
+      "artist": "戌神ころね",
+      "has_synced": true,
+      "path": "select/04_かわいこちぇっく!_(Kawaiko_Check!)_戌神ころね.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かわいこちぇっく!",
+      "artist": "戌神ころね",
+      "has_synced": false,
+      "path": "select/pl_01_かわいこちぇっく!_戌神ころね.txt"
+    }
+  ]
+}
